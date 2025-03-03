@@ -19,3 +19,15 @@
 • větší než: a > b
 
 • větší nebo rovno: a >= b
+## Příklad zde:
+```python
+a = 10
+b = 5
+if a > b:
+    print("a je větší než b")
+elif a < b:
+    print("b je větší než a")
+else:
+    print("a je rovno b")
+
+```python
