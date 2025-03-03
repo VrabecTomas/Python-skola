@@ -1,5 +1,5 @@
 
-# <h1 align="center"> **Táhaky** </h1>
+# <h1 align="center"> **Taháky** </h1>
 # Tomáš Vrabec 1IT
 
 ## **PYTHON**
