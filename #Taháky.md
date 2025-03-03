@@ -29,5 +29,3 @@ elif a < b:
     print("b je větší než a")
 else:
     print("a je rovno b")
-
-```python
