@@ -8,17 +8,17 @@
 
 # Podmínkové příkazy:
 
-• rovná se: a == b
+- rovná se: a == b
 
-• nerovná se: a != b
+- nerovná se: a != b
 
-• menší než: a < b
+- menší než: a < b
 
-• menší nebo rovno: a <= b
+- menší nebo rovno: a <= b
 
-• větší než: a > b
+- větší než: a > b
 
-• větší nebo rovno: a >= b
+- větší nebo rovno: a >= b
 ## Příklad zde:
 ```python
 a = 10
