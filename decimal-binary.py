@@ -1,4 +1,3 @@
-
 # Enter a number in the decimal system
 decimal_number = int(input("Enter a number in decimal: "))
 
